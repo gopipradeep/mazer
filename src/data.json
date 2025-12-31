@@ -1,0 +1,41 @@
+{
+  "profile_stats": {
+    "profile_views": "112.000",
+    "followers": "183.000",
+    "following": "80.000",
+    "saved_posts": "112"
+  },
+  "visitors_by_region": [
+    { "region": "Europe", "count": 862, "color": "primary" },
+    { "region": "America", "count": 375, "color": "success" },
+    { "region": "India", "count": 625, "color": "success" },
+    { "region": "Indonesia", "count": 1025, "color": "danger" }
+  ],
+  "latest_comments": [
+    {
+      "name": "Si Cantik",
+      "avatar": "assets/static/images/faces/5.jpg",
+      "comment": "Congratulations on your graduation!"
+    },
+    {
+      "name": "Si Ganteng",
+      "avatar": "assets/static/images/faces/2.jpg",
+      "comment": "Wow amazing design! Can you make another tutorial for this design?"
+    },
+    {
+      "name": "Singh Eknoor",
+      "avatar": "assets/static/images/faces/8.jpg",
+      "comment": "What a stunning design! You are so talented and creative!"
+    },
+    {
+      "name": "Rani Jhadav",
+      "avatar": "assets/static/images/faces/3.jpg",
+      "comment": "I love your design! It’s so beautiful and unique!"
+    }
+  ],
+  "currentUser": {
+    "name": "John Duck",
+    "handle": "@johnducky",
+    "avatar": "assets/static/images/faces/1.jpg"
+  }
+}
